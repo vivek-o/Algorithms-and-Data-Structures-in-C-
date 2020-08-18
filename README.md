@@ -1,3 +1,3 @@
 # Algorithms-and-Data-Structures-in-C++
 
-This repository has the implementation of some of the most important algorithms and data structures.
+This repository has the C++ implementation of some of the most important algorithms and data structures.
